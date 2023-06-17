@@ -47,6 +47,26 @@ let quizData = [
     question: 'Long-term Lover of Needham(1904-1991)',
     word: 'LU GWEI DJEN',
   },
+  {
+    question:"Claimed to have used the CRISPR-Cas9 gene editing tool to modify the embryos of twin girls",
+    word:"HE JIANKUI"
+  },
+  {
+    question:"Has controversy in creating stem cell lines using SCNT",
+    word:"WOOSUK HWANG",
+  },
+  {
+    question:"It can become a tool for social cohabitation, as well as knowledge enhancement",
+    word:"DIALOGUE"
+  },
+  {
+    question:"Type of Knowledge that emphasizes the symbiotic character of humans and nature",
+    word:"TRADITIONAL"
+  },
+  {
+    question:"From the perspective of this individual, China was hydraulic, changeless, cruel, obedient",
+    word:"WITTFOGEL"
+  }
 ];
 
 const maxWrongAttempts = 6;
