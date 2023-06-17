@@ -1,0 +1,29 @@
+.start-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100dvw;
+  }
+  
+  .start-screen h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    width: 40dvw;
+    aspect-ratio: 4/1;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  

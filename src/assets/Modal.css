@@ -1,0 +1,40 @@
+
+.modal-content-wrapper{
+    position:fixed;
+    width: 80dvw;
+    height: 80dvh;
+    background-color: black;
+    margin:auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index: 2;
+    padding:1em;
+    padding-top: 0;
+    color:white;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.inverse{
+    background-color:lightgrey;
+    color:black;
+}
+.modal-content .title{
+    position:sticky;
+    top:0;
+    left:0;
+}
+.overview-body img{
+    width:10%;
+}
+.modal-backdrop{
+    position:fixed;
+    height: 100dvh;
+    width: 100dvw;
+    top:0;
+    left:0;
+    background:rgba(0,0,0,0.6) ;
+    z-index: 1;
+    
+}
