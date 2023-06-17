@@ -76,6 +76,7 @@ h1 {
   .game{
     height: 95dvh;
     padding:0;
+    background-color: black;
   }
   .modal{
     z-index: 1000;
